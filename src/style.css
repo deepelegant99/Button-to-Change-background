@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  width: 10rem;
+  height: 3rem;
+  padding: 1rem;
+  border: solid gray;
+  border-radius: 2rem;
+  font-size: .8rem;
+
+}
